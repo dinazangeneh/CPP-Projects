@@ -23,7 +23,3 @@ A C++ program that analyzes a 10-digit number and classifies its two-digit parts
 ## Purpose
 
 This project was created to practice C++ functions, arrays, file handling, and algorithmic problem solving.
-
-## Author
-
-Your Name
