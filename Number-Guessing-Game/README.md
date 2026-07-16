@@ -24,6 +24,3 @@ A C++ console game where the player tries to guess a randomly generated number.
 
 This project was created to practice C++ programming concepts, game loops, and designing interactive console applications.
 
-## Author
-
-Your Name
