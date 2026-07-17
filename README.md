@@ -1,4 +1,4 @@
-# C++ Projects
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12d8d4cf-38d9-4bc0-b578-47ae78e31b75" /># C++ Projects
 
 A collection of C++ projects developed to practice programming concepts,
 algorithms, data structures, file handling, and problem solving.
@@ -22,3 +22,11 @@ algorithms, data structures, file handling, and problem solving.
 - Password validation
 - Security analysis
 - 2D vector operations
+
+## Build & Run
+
+### Using Dev-C++
+
+1. Open the `.cpp` file in Dev-C++.
+2. Press **F11** to compile and run the program.
+3. Follow the instructions shown in the console.
