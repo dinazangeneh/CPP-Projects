@@ -30,19 +30,7 @@ A C++ console application that simulates a simple bank vault security system usi
 - Switch Statement
 - Algorithm Design
 
-## How to Run
 
-Compile the program:
-
-```bash
-g++ main.cpp -o vault
-```
-
-Run the executable:
-
-```bash
-./vault
-```
 
 ## Project Purpose
 
