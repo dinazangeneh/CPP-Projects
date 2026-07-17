@@ -33,19 +33,6 @@ A C++ console-based number guessing game where the player competes against the c
 - Performance Analysis
 - Console-Based Game Development
 
-## How to Run
-
-Compile the program:
-
-```bash
-g++ main.cpp -o GuessGame
-```
-
-Run the executable:
-
-```bash
-./GuessGame
-```
 
 ## Project Purpose
 
